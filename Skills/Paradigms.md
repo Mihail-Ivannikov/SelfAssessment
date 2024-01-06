@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming  🖐️ used
+  - Imperative programming  🖐️ used
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming  🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming  🖐️ used
   - Object-based programming
-  - Generic programming
+  - Generic programming  👂 heard
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming  🖐️ used
+  - Parallel programming  👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming  👂 heard
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
+  - constructor  🖐️ used
+  - new  🖐️ used
+  - Static method  🖐️ used
+  - Method  🖐️ used
+  - Async method  🖐️ used
   - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Public fields  🖐️ used
+  - Private fields  🖐️ used
+  - Field declarations  🖐️ used
+  - Inheritance  🖐️ used
+  - Parent class  🖐️ used
+  - Polymorphism  🖐️ used
+  - Abstract class  🖐️ used
+  - Interface  🖐️ used
+  - Encapsulation  🖐️ used
+  - Hidden class  
   - Object form
-  - instance
+  - instance  🖐️ used
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton  🖐️ used
+  - Factory Method  👂 heard
+  - Abstract Factory  👂 heard
   - Adapter
   - Observer
   - Strategy
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
+  - Command  👂 heard
+  - Iterator  👂 heard
+  - State  👂 heard
+  - Bridge  
+  - Builder  👂 heard
   - Prototype
   - Composite
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method  👂 heard
   - Visitor
