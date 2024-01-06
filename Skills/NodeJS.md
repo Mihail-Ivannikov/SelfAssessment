@@ -6,7 +6,7 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection  👂 heard
+  - Garbage collection  🖐️ used
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -15,7 +15,7 @@
   - ECMAScript modules  
   - node:module  🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons  👂 heard
+  - Modules as singletons  🖐️ used
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules  🖐️ used
   - Dependencies: package.json and package lock  🖐️ used
@@ -78,7 +78,7 @@
   - CQRS
   - Event sourcing
   - Load balancing
-  - Serverless clouds  👂 heard
+  - Serverless clouds  🖐️ used
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
@@ -86,17 +86,17 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)  👂 heard
-  - TCP/SSL  👂 heard
-  - UDP  👂 heard
+  - HTTP(S)  🖐️ used
+  - TCP/SSL  🖐️ used
+  - UDP  🖐️ used
   - TLS  👂 heard
-  - Websocket  👂 heard
+  - Websocket  🖐️ used
   - SSE
   - HTTP/3 (QUIC)  👂 heard
   - Long polling
-  - REST  👂 heard
+  - REST  🖐️ used
   - RPC  
-  - Routing  👂 heard
+  - Routing  🖐️ used
   - DoS  👂 heard
   - DDoS  👂 heard
   - XSS
@@ -145,7 +145,7 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools  👂 heard
+  - Debugging tools  🖐️ used 
   - Flame graph
   - Memory leaks  👂 heard
   - Resource leaks  👂 heard
