@@ -3,29 +3,29 @@
 - Theory
   - Event loop  🖐️ used
   - try..catch  🖐️ used
-  - Non-blocking  
-  - Async I/O  
-  - Thread pool  
-  - Pattern Reactor  
+  - Non-blocking  🖐️ used
+  - Async I/O  🖐️ used
+  - Thread pool  👂 heard
+  - Pattern Reactor  👂 heard
   - CAS operations  👂 heard
-  - epoll  
-  - kqueue  
+  - epoll  👂 heard
+  - kqueue  👂 heard
   - Completion ports  
   - Event ports  
   - libuv  
-  - Race conditions  
-  - Dead locks  
-  - Live locks  
+  - Race conditions  👂 heard
+  - Dead locks  🖐️ used
+  - Live locks  🖐️ used
   - Concurrent programming
-  - Parallel programming  
+  - Parallel programming  🖐️ used
   - Actor Model  
-  - Thread  
-  - Process  
+  - Thread  👂 heard
+  - Process  👂 heard
 - Async contracts
   - Callbacks  🖐️ used
-  - Callback-last-error-first  
+  - Callback-last-error-first  🖐️ used
   - Thenable  
-  - Promise  
+  - Promise  🖐️ used
   - Async/await  🖐️ used
   - Future  👂 heard
   - Deferred  👂 heard
@@ -41,9 +41,9 @@
   - Middleware  👂 heard
   - Locks  👂 heard
 - Async adapters and utils
-  - callbackify  
-  - promisify  
-  - asyncify  
+  - callbackify  👂 heard
+  - promisify  👂 heard
+  - asyncify  👂 heard
   - callbacks compose  👂 heard
   - async compose  👂 heard
 - Async abstractions interfaces
@@ -61,35 +61,35 @@
 - JavaScript & Node.js specific
   - Timers  🖐️ used
   - setImmediate  🖐️ used
-  - nextTick  
-  - AbortController  
-  - AbortSignal  
-  - Promise unhandled rejection  
-  - Promise double resolve  
-  - child_process  
-  - worker_threads  
-  - Atomics  
-  - High resolution clock  
+  - nextTick  🖐️ used
+  - AbortController  👂 heard
+  - AbortSignal  👂 heard
+  - Promise unhandled rejection  👂 heard
+  - Promise double resolve  👂 heard
+  - child_process  👂 heard
+  - worker_threads  👂 heard
+  - Atomics  👂 heard
+  - High resolution clock  👂 heard
   - Callback hell  🖐️ used
   - Promise hell  🖐️ used
-  - ref() and unref()  
-  - Error handling in async code   
-  - Better stack traces with return await  
+  - ref() and unref()  👂 heard
+  - Error handling in async code   🖐️ used 
+  - Better stack traces with return await  👂 heard
   - JSON: streaming serialization  
-  - promisify  
-  - callbackify  
-  - AsyncLocalStorage  
-  - AsyncResource  
+  - promisify  👂 heard
+  - callbackify  👂 heard
+  - AsyncLocalStorage  👂 heard
+  - AsyncResource  👂 heard
 - Techniques
-  - async.js library  👂 heard
-  - RxJS library  
-  - Async composition  
-  - Promise.all  
-  - Promise.allSettled  
-  - Promise.race  
-  - Promise.any  
+  - async.js library  🖐️ used
+  - RxJS library  👂 heard
+  - Async composition  👂 heard
+  - Promise.all  👂 heard
+  - Promise.allSettled  👂 heard
+  - Promise.race  👂 heard
+  - Promise.any  👂 heard
   - Web Locks API  👂 heard
   - IPC  👂 heard
-  - Channel API  
-  - Revealing Constructor  
+  - Channel API  👂 heard
+  - Revealing Constructor  👂 heard
   - Web Locks API  👂 heard
