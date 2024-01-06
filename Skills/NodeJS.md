@@ -94,9 +94,9 @@
   - SSE
   - HTTP/3 (QUIC)  👂 heard
   - Long polling
-  - REST  🖐️ used
+  - REST  👂 heard
   - RPC  
-  - Routing  🖐️ used
+  - Routing  👂 heard
   - DoS  👂 heard
   - DDoS  👂 heard
   - XSS
